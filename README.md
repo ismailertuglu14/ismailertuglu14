@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/103585596/202842812-32d9f199-e675-493e-8016-f6859f6d4b1d.gif" align="center" style="width: 100%" />
 
-/div>  
   
 
 ### <div align="center">Hi! I'm Ismail.👨‍💻</div>  
