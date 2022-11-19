@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/deneme-322a8.appspot.com/o/greetings.gif?alt=media&token=6cabb5ad-9cc3-4d61-86c0-a74c71be48f6" align="center" style="width: 100%" />
-</div>  
+<img src="https://user-images.githubusercontent.com/103585596/202842812-32d9f199-e675-493e-8016-f6859f6d4b1d.gif" align="center" style="width: 100%" />
+
+/div>  
   
 
 ### <div align="center">Hi! I'm Ismail.👨‍💻</div>  
