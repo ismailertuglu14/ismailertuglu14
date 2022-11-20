@@ -3,8 +3,13 @@
 
   
 
-### <div align="center">Hi! I'm Ismail.👨‍💻</div>  
-  
+### <div align="center">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Hi+I'm+Ismail!;Junior+Mobile+Developer." alt="Typing SVG" />
+  </div>  
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ismailertuglu14&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=b4a7d6&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"  />
+  </div>  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailertuglu14&theme=dark"  />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailertuglu14&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages"  />
 
 - 📱 I’m currently working on Flutter.  
   
