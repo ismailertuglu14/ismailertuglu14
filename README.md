@@ -9,12 +9,6 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailertuglu14&theme=dark"  />
  
 
-- 📱 I’m currently working on Flutter.  
-  
-
-- 🌐 I’m currently learning Web development.  
-  
-
 <br/>  
 
 
