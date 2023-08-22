@@ -4,12 +4,6 @@
  <br/>
  <img src="https://i.redd.it/s8soggm5esm31.jpg" />
  <br/>
- <br/> 
- <br/>
- <br/>
- <br/>
- <br/>
-
  ![:name](https://count.getloli.com/get/@:ismailertuglu14)
  <br/>
  <br/>
