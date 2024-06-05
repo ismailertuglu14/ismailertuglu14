@@ -4,7 +4,6 @@
  <br/>
  <img src="https://i.redd.it/s8soggm5esm31.jpg" />
  <br/>
- ![:name](https://count.getloli.com/get/@:ismailertuglu14)
  <br/>
  <br/>
  <br/>
